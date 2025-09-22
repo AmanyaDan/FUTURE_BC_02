@@ -1,5 +1,5 @@
-# FUTURE_BC_0001
-Future Inters Blockchain &amp; Crypto Internship,
+# FUTURE_BC_02
+Future Inters Blockchain & Crypto Internship,
 Task_02 Involves.
  Task: Write a custom ERC-20 or BEP-20 token using Solidity and deploy it for free using testnets like Polygon Mumbai or BNB Chain Testnet.
 🔹 Skills Gained: Smart contract development, blockchain deployment, MetaMask integration, GitHub portfolio building.
