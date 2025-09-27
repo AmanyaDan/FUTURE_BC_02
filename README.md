@@ -11,3 +11,6 @@ Polygon Faucet: faucet.polygon.technology
 BNB Faucet: testnet.binance.org/faucet-smart
 🔹 Deliverables:
 Smart contract on GitHub, testnet token address, MetaMask screenshot, explorer link
+
+https://lnkd.in/dZ3WDY3d
+https://lnkd.in/dXh97JzC
