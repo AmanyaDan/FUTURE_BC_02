@@ -8,6 +8,6 @@ contract AmanyaDanToken is ERC20("Amanya Dan Token", "ADT"),Ownable(msg.sender)
 {
 
     function mintfifty() public onlyOwner  {
-        _mint(msg.sender, 50 * 10**18);
+        _mint(msg.sender, 1000000 * 10**18);
     }
 }
